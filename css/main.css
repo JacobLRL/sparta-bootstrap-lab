@@ -1,0 +1,20 @@
+/* JUMBOTRON */
+.jumbotron {
+    background: url(https://images.unsplash.com/photo-1517777170473-009c8c3734c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80) no-repeat fixed center;
+    background-size: cover; 
+    color: #c2c2c2;
+}
+
+/* ICONS and FOOTER*/
+footer:not(.blockquote-footer):not(cite){
+    background: url(https://images.unsplash.com/photo-1517777170473-009c8c3734c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80) no-repeat fixed bottom;
+    background-size: cover;
+}
+
+footer, footer a{
+    color: black;
+}
+
+footer a:hover {
+    color: grey;
+}
